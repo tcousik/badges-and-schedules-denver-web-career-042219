@@ -10,4 +10,4 @@ def batch_badge_creator(array)
   badge_list
 end
 
-def conference_badges()
+def assign_rooms()
